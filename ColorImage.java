@@ -1,3 +1,12 @@
+/*
+CSI 2120 - Section A
+Project - Part 1
+
+Group:
+(your name and ID)
+Aiden McGarrie - 300244967
+*/
+
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.FileWriter;
