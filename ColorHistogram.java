@@ -3,8 +3,8 @@ CSI 2120 - Section A
 Project - Part 1
 
 Group:
-(your name and ID)
 Aiden McGarrie - 300244967
+Mahmoud Fawaz - 300162088
 */
 
 import java.awt.image.BufferedImage;
